@@ -1,0 +1,5 @@
+C:\Users\nutic\Desktop\triangle-79627\Triangle.NET\Triangle\bin\Debug\Triangle.dll
+C:\Users\nutic\Desktop\triangle-79627\Triangle.NET\Triangle\bin\Debug\Triangle.pdb
+C:\Users\nutic\Desktop\triangle-79627\Triangle.NET\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\nutic\Desktop\triangle-79627\Triangle.NET\Triangle\obj\Debug\Triangle.dll
+C:\Users\nutic\Desktop\triangle-79627\Triangle.NET\Triangle\obj\Debug\Triangle.pdb
